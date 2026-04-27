@@ -1,0 +1,14 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "printWidth": 80,
+  "useTabs": true,
+  "semi": false,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "proseWrap": "always",
+  "htmlWhitespaceSensitivity": "ignore",
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
